@@ -2,7 +2,7 @@
 <br>
 <br>
  <a href="https://github.com/ANAGABRIELAELAUTERIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliabonatto&show_icons=true&theme=onedark" width="280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ANAGABRIELAELAUTERIO&show_icons=true&theme=onedark" width="280" />
 </a>
 <a href="https://github.com/ANAGABRIELAELAUTERIO">
  <img loading="lazy" width="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAGABRIELAELAUTERIO&layout=compact&langs_count=7&theme=onedark"/>
